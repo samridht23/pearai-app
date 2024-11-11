@@ -290,7 +290,6 @@ export class EditorGroupWatermark extends Disposable {
 			recentlyOpenedFiles()
 		}))
 		recentlyOpenedFiles()
-
 	}
 
 	private clear(): void {
